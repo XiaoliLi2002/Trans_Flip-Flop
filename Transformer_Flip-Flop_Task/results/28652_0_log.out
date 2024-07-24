@@ -1,0 +1,2 @@
+submitit INFO (2024-07-25 00:24:00,331) - Starting with JobEnvironment(job_id=28652, hostname=LAPTOP-0QR4GTF6, local_rank=0(1), node=0(1), global_rank=0(1))
+submitit INFO (2024-07-25 00:24:00,331) - Loading pickle: F:\Works\PhD\Program\pythonProject\ML_FredericK\Transformer_Flip-Flop_Task\results\28652_submitted.pkl
